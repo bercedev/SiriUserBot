@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 # 
 
-# SiriUserBot - ErdemBey - Midy - Berceste
+# SiriUserBot - Berceste
 
 """
 Bu modül commit sayısına bağlı olarak botu günceller.
@@ -82,9 +82,9 @@ async def upstream(ups):
         origin = repo.create_remote('upstream', off_repo)
         origin.fetch()
         force_update = True
-        repo.create_head('master', origin.refs.seden)
-        repo.heads.seden.set_tracking_branch(origin.refs.sql)
-        repo.heads.seden.checkout(True)
+        repo.create_head('master', origin.refs.master)
+        repo.heads.master.set_tracking_branch(origin.refs.sql)
+        repo.heads.master.checkout(True)
 
     ac_br = repo.active_branch.name
     if ac_br != 'master':

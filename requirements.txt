@@ -43,7 +43,7 @@ spotdl
 selenium>=3.141.0
 telethon>=1.10.6
 telethon-session-sqlalchemy>=0.2.6
-urbandict>=0.5
+urbandict>=0.6.1
 wikipedia>=1.4.0
 randomstuff.py
 spotify_token

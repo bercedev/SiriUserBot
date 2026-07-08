@@ -10,7 +10,7 @@ emoji
 gitpython
 google-api-python-client
 google-auth-oauthlib
-googletrans==4.0.0rc1
+googletrans==4.0.2
 google-trans-new
 langdetect
 google_images_download>=2.8.0

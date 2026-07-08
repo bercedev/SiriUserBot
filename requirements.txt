@@ -2,7 +2,7 @@ aiohttp
 aria2p
 async_generator
 bs4
-beautifulsoup4>=4.8.1
+beautifulsoup4>=4.15.0
 cowpy
 cryptg
 dnspython

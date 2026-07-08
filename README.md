@@ -1,4 +1,7 @@
 
+## DEVELOPMENT WILL CONTINUE WITH CLAUDE SOON.
+
+
 <div align="center">
   <img src="https://i.hizliresim.com/qb3gbap.jpg" width="300" height="300">
   <h1>🇹🇷 Ⲋⲓⲅⲓ Ⳙ⳽ⲉⲅⲂⲟⲧ 🇺🇲</h1>

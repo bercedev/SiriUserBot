@@ -28,7 +28,7 @@ gTTS-token>=1.1.3
 psycopg2
 python-dotenv
 aiohttp
-telethon-session-sqlalchemy>=0.2.6
+telethon-session-sqlalchemy>=0.2.16
 cryptg
 pyfiglet
 cowsay
@@ -45,7 +45,7 @@ dnspython
 speedtest-cli>=2.0.2
 spongemock
 telegraph
-telethon-session-sqlalchemy>=0.2.6
+telethon-session-sqlalchemy>=0.2.16
 urbandict>=0.5
 wikipedia>=1.4.0
 zalgo_text>=0.6

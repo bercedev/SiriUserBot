@@ -31,7 +31,7 @@ pySmartDL
 python-barcode
 python-dotenv
 youtube-dl>=2021.1.8
-youtube-search-python>=1.3.2
+youtube-search-python>=1.6.6
 youtube-search>=1.1.1
 pytz
 qrcode

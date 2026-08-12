@@ -25,7 +25,7 @@ git+https://github.com/johnwmillr/LyricsGenius.git
 lyricsgenius
 oauth2client
 psycopg2
-pybase64>=0.4.0
+pybase64>=1.5.0
 pylast==5.0.0
 pySmartDL
 python-barcode

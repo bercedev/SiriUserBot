@@ -20,7 +20,7 @@ google_images_download>=2.4.2
 hachoir
 Pillow>=5.3.0
 telegraph
-sqlalchemy>=1.2
+sqlalchemy>=2.0.54
 gTTS>=2.0.1
 googletrans>=2.4.0
 spongemock

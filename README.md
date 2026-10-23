@@ -1,5 +1,7 @@
 
-## DEVELOPMENT WILL CONTINUE WITH CLAUDE SOON.
+> [!WARNING]
+> **TR:** Bu proje artık geliştirilmiyor ve arşivlendi. Kod olduğu gibi duruyor; hata düzeltmesi ve destek yok.<br>
+> **EN:** This project is no longer maintained and has been archived. The code stays as it is, with no fixes or support.
 
 
 <div align="center">
